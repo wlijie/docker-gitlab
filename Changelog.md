@@ -3,6 +3,18 @@
 This file only reflects the changes that are made in this image. Please refer to the upstream GitLab [CHANGELOG](
 https://gitlab.com/gitlab-org/gitlab-foss/blob/master/CHANGELOG.md) for the list of changes in GitLab.
 
+**13.12.0**
+- gitlab: upgrade CE to v13.12.0
+- gitlab-shell: upgrade to v13.18.0
+- gitlab-pages: upgrade to v1.39.0
+- gitaly: upgrade to v13.12.0
+
+**13.11.4**
+- gitlab: upgrade CE to v13.11.4
+- gitaly: upgrade to v13.11.4
+- golang: upgrade to v1.16.4
+- ubuntu: upgrade to focal-20210416
+
 **13.11.3**
 - gitlab: upgrade CE to v13.11.3
 - gitaly: upgrade to v13.11.3
